@@ -1,0 +1,5 @@
+﻿  Generating code
+  Finished generating code
+  Previous IPDB and IOBJ mismatch, fall back to full compilation.
+  All 1 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  CT_inline_assembly_x86.vcxproj -> C:\Users\user1\source\repos\CT_inline_assembly_x86\Release\CT_inline_assembly_x86.exe
