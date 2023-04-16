@@ -49,5 +49,4 @@ This code part frees the executable memory that was allocated earlier using the 
     VirtualFree(exec, 0, MEM_RELEASE);
 
     return 0;
-}
 ```
